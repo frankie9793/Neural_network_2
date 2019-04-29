@@ -1,0 +1,140 @@
+Training with Gradient Descent Optimizer
+========================================
+iteration: 0
+Test accuracy: 0.1565
+Training cost: 2.2785
+iteration: 100
+Test accuracy: 0.385
+Training cost: 1.71569
+iteration: 200
+Test accuracy: 0.433
+Training cost: 1.52258
+iteration: 300
+Test accuracy: 0.4825
+Training cost: 1.36249
+iteration: 400
+Test accuracy: 0.508
+Training cost: 1.25041
+iteration: 500
+Test accuracy: 0.5145
+Training cost: 1.12868
+iteration: 600
+Test accuracy: 0.5105
+Training cost: 1.05443
+iteration: 700
+Test accuracy: 0.516
+Training cost: 0.950028
+iteration: 800
+Test accuracy: 0.5305
+Training cost: 0.841434
+iteration: 900
+Test accuracy: 0.5295
+Training cost: 0.748816
+iteration: 999
+Test accuracy: 0.5085
+Training cost: 0.695119
+Training with Momentum Optimizer
+================================
+iteration: 0
+Test accuracy: 0.1265
+Training cost: 2.28828
+iteration: 100
+Test accuracy: 0.4095
+Training cost: 1.66976
+iteration: 200
+Test accuracy: 0.4555
+Training cost: 1.47749
+iteration: 300
+Test accuracy: 0.4805
+Training cost: 1.32218
+iteration: 400
+Test accuracy: 0.4975
+Training cost: 1.22021
+iteration: 500
+Test accuracy: 0.5185
+Training cost: 1.0931
+iteration: 600
+Test accuracy: 0.518
+Training cost: 1.0029
+iteration: 700
+Test accuracy: 0.5145
+Training cost: 0.857372
+iteration: 800
+Test accuracy: 0.5335
+Training cost: 0.771779
+iteration: 900
+Test accuracy: 0.515
+Training cost: 0.648283
+iteration: 999
+Test accuracy: 0.5075
+Training cost: 0.56536
+Training with RMSProp Optimizer
+================================
+iteration: 0
+Test accuracy: 0.1265
+Training cost: 2.28828
+iteration: 100
+Test accuracy: 0.4095
+Training cost: 1.66976
+iteration: 200
+Test accuracy: 0.4555
+Training cost: 1.47749
+iteration: 300
+Test accuracy: 0.4805
+Training cost: 1.32218
+iteration: 400
+Test accuracy: 0.4975
+Training cost: 1.22021
+iteration: 500
+Test accuracy: 0.5185
+Training cost: 1.0931
+iteration: 600
+Test accuracy: 0.518
+Training cost: 1.0029
+iteration: 700
+Test accuracy: 0.5145
+Training cost: 0.857372
+iteration: 800
+Test accuracy: 0.5335
+Training cost: 0.771779
+iteration: 900
+Test accuracy: 0.515
+Training cost: 0.648283
+iteration: 999
+Test accuracy: 0.5075
+Training cost: 0.56536
+Training with Adam Optimizer
+================================
+iteration: 0
+Test accuracy: 0.1265
+Training cost: 2.28828
+iteration: 100
+Test accuracy: 0.4095
+Training cost: 1.66976
+iteration: 200
+Test accuracy: 0.4555
+Training cost: 1.47749
+iteration: 300
+Test accuracy: 0.4805
+Training cost: 1.32218
+iteration: 400
+Test accuracy: 0.4975
+Training cost: 1.22021
+iteration: 500
+Test accuracy: 0.5185
+Training cost: 1.0931
+iteration: 600
+Test accuracy: 0.518
+Training cost: 1.0029
+iteration: 700
+Test accuracy: 0.5145
+Training cost: 0.857372
+iteration: 800
+Test accuracy: 0.5335
+Training cost: 0.771779
+iteration: 900
+Test accuracy: 0.515
+Training cost: 0.648283
+iteration: 999
+Test accuracy: 0.5075
+Training cost: 0.56536

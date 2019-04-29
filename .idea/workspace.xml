@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eec334d0-1520-4cd0-af9d-a677539c691c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/NN_ASGN2$6_b__Word_comparer.coverage" NAME="6(b) Word comparer Coverage Results" MODIFIED="1542195734675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figures/Part B/Question 6/6(b)_Word_comparer" />
+    <SUITE FILE_PATH="coverage/NN_ASGN2$start_project_2a.coverage" NAME="start_project_2a Coverage Results" MODIFIED="1540384595363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Assignment 2 prof's codes" />
+    <SUITE FILE_PATH="coverage/NN_ASGN2$Comparer6_a_.coverage" NAME="Comparer6(a) Coverage Results" MODIFIED="1542081726762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6(a) Comparer" />
+    <SUITE FILE_PATH="coverage/NN_ASGN2$PartA.coverage" NAME="PartA Coverage Results" MODIFIED="1540384672250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Assignment 2 prof's codes" />
+    <SUITE FILE_PATH="coverage/NN_ASGN2$PartA_Qns1.coverage" NAME="PartA_Qns1 Coverage Results" MODIFIED="1540863071387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NN_ASGN2$5__1__CharacterCNN_comparer.coverage" NAME="5_(1)_CharacterCNN_comparer Coverage Results" MODIFIED="1542103671283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figures/Part B/Question 5/5_(1) Character comparer" />
+    <SUITE FILE_PATH="coverage/NN_ASGN2$5_TestAcc_comparer_1_4.coverage" NAME="5_TestAcc comparer_1-4 Coverage Results" MODIFIED="1542188726144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figures/Part B/Question 5/5_TestAcc comparer_(1-4)" />
+    <SUITE FILE_PATH="coverage/NN_ASGN2$comparerword.coverage" NAME="comparerword Coverage Results" MODIFIED="1542192804881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figures/Part B/Question 5/5_(4) Word comparer" />
+    <SUITE FILE_PATH="coverage/NN_ASGN2$compare_words.coverage" NAME="compare_words Coverage Results" MODIFIED="1542194350380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figures/Part B/Question 6/6(a) Word_comparer" />
+    <SUITE FILE_PATH="coverage/NN_ASGN2$t7q2.coverage" NAME="t7q2 Coverage Results" MODIFIED="1540871348456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Tutorial Codes/Tutorial7" />
+    <SUITE FILE_PATH="coverage/NN_ASGN2$6_c__Character_comparer.coverage" NAME="6(c)_Character comparer Coverage Results" MODIFIED="1542087104440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figures/Part B/Question 6/6(c)_Character_comparer" />
+    <SUITE FILE_PATH="coverage/NN_ASGN2$6_c__Word_comparer.coverage" NAME="6(c)_Word comparer Coverage Results" MODIFIED="1542101531768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figures/Part B/Question 6/6(c)_Word_comparer" />
+    <SUITE FILE_PATH="coverage/NN_ASGN2$5_Runtime_Comparer_1_4_.coverage" NAME="5_Runtime_Comparer(1-4) Coverage Results" MODIFIED="1542103096499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figures/Part B/Question 5/5_Runtime comparer_(1-4)" />
+    <SUITE FILE_PATH="coverage/NN_ASGN2$5__2__Word_Comparer.coverage" NAME="5_(2) Word Comparer Coverage Results" MODIFIED="1542104126659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figures/Part B/Question 5/5_(2) Word comparer" />
+    <SUITE FILE_PATH="coverage/NN_ASGN2$comparer__1_.coverage" NAME="comparer (1) Coverage Results" MODIFIED="1542206346533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figures/Part A/Question2" />
+    <SUITE FILE_PATH="coverage/NN_ASGN2$comparer.coverage" NAME="comparer Coverage Results" MODIFIED="1542104304486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figures/Part B/Question 5/5_(3) Character comparer" />
+    <SUITE FILE_PATH="coverage/NN_ASGN2$eg7_3.coverage" NAME="eg7.3 Coverage Results" MODIFIED="1541168952843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Example codes" />
+    <SUITE FILE_PATH="coverage/NN_ASGN2$6_b__Character_comparer.coverage" NAME="6(b) Character comparer Coverage Results" MODIFIED="1542086335179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figures/Part B/Question 6/6(b) Character_comparer" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="506804568">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="203" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="203" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="35" />
+          <entry key="py" value="12807" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="35" />
+          <entry key="Python" value="12807" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>batch_size</find>
+      <find>batch</find>
+      <find>print</find>
+      <find>100</find>
+      <find>MAX_DO</find>
+      <find>dropout</find>
+      <find>keep_prob</find>
+      <find>word_list</find>
+      <find>word_vectors</find>
+      <find>keep</find>
+      <find>init_state</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Assignment 2 prof's codes/start_project_2a.py" />
+        <option value="$PROJECT_DIR$/../Tutorial Codes/Tutorial7/t7q2.py" />
+        <option value="$PROJECT_DIR$/AnalyzeShit.py" />
+        <option value="$USER_HOME$/Downloads/tensorflow_examples_learn_text_classification_character_cnn.py" />
+        <option value="$PROJECT_DIR$/start_project_2b1 (1).py" />
+        <option value="$PROJECT_DIR$/b_q2.py" />
+        <option value="$PROJECT_DIR$/../Example codes/eg9.2b.py" />
+        <option value="$PROJECT_DIR$/PartB_Qns6.py" />
+        <option value="$PROJECT_DIR$/testLSTM.py" />
+        <option value="$PROJECT_DIR$/PartB_Qns6_Character.py" />
+        <option value="$PROJECT_DIR$/PartB_Qns6_Word.py" />
+        <option value="$PROJECT_DIR$/PartB_Qns6_Character_Vanilla.py" />
+        <option value="$PROJECT_DIR$/PartB_Qns6_Character_LSTM.py" />
+        <option value="$PROJECT_DIR$/PartB_Qns6_Word_LSTM.py" />
+        <option value="$PROJECT_DIR$/PartB_Qns6_Word_Vanilla.py" />
+        <option value="$PROJECT_DIR$/PartB_Qns6_Character_2layers.py" />
+        <option value="$PROJECT_DIR$/PartB_Qns6_Word_2layers.py" />
+        <option value="$PROJECT_DIR$/PartB_Qns6_Character_GradClipped.py" />
+        <option value="$PROJECT_DIR$/PartB_Qns6_Word_GradClipped.py" />
+        <option value="$PROJECT_DIR$/Compare_6(a).py" />
+        <option value="$PROJECT_DIR$/6(a) Comparer/Comparer6(a).py" />
+        <option value="$PROJECT_DIR$/Figures/Part B/Question 6/6(a) Word_comparer/6(a)_CharComparer.py" />
+        <option value="$PROJECT_DIR$/Figures/Part B/Question 6/6(a) Word_comparer/6(a)_WordComparer.py" />
+        <option value="$PROJECT_DIR$/6(a) Word_comparer/compare_words.py" />
+        <option value="$PROJECT_DIR$/Figures/Part B/Question 6/6(b) Character_comparer/6(b) Character comparer.py" />
+        <option value="$PROJECT_DIR$/Figures/Part B/Question 6/6(b)_Word_comparer/6(b) Word comparer.py" />
+        <option value="$PROJECT_DIR$/Figures/Part B/Question 6/6(c)_Character_comparer/6(c)_Character comparer.py" />
+        <option value="$PROJECT_DIR$/Figures/Part B/Question 6/6(c)_Word_comparer/6(c)_Word comparer.py" />
+        <option value="$PROJECT_DIR$/Figures/Part B/Question 5/5_TestAcc comparer_(1-4)/5_TestAcc comparer_1-4.py" />
+        <option value="$PROJECT_DIR$/Figures/Part B/Question 5/5_Runtime comparer_(1-4)/5_Runtime_Comparer(1-4).py" />
+        <option value="$PROJECT_DIR$/Figures/Part B/Question 5/5_(1) Character comparer/5_(1)_CharacterCNN_comparer.py" />
+        <option value="$PROJECT_DIR$/Figures/Part B/Question 5/5_(2) Word comparer/5_(2) Word Comparer.py" />
+        <option value="$PROJECT_DIR$/Figures/Part B/Question 5/5_(3) Character comparer/comparer.py" />
+        <option value="$PROJECT_DIR$/Figures/Part B/Question 5/5_(4) Word comparer/comparerword.py" />
+        <option value="$PROJECT_DIR$/Figures/Part A/Question2/comparer.py" />
+        <option value="$PROJECT_DIR$/PartA_Qns1.py" />
+        <option value="$PROJECT_DIR$/PartA_Qns2.py" />
+        <option value="$PROJECT_DIR$/PartA_Qns3.py" />
+        <option value="$PROJECT_DIR$/PartB_Qns1.py" />
+        <option value="$PROJECT_DIR$/PartB_Qns2.py" />
+        <option value="$PROJECT_DIR$/PartB_Qns3.py" />
+        <option value="$PROJECT_DIR$/PartB_Qns4.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="1950" />
+    <option name="height" value="2075" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NN_ASGN2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NN_ASGN2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Figures/Part A/Question2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Frankie's Laptop\Desktop\Neural Networks Files\NN_ASGN2\Figures\Part B\Question 6\6(a) Word_comparer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.comparer (1)">
+    <configuration name="5_TestAcc comparer_1-4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NN_ASGN2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Figures/Part B/Question 5/5_TestAcc comparer_(1-4)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Figures/Part B/Question 5/5_TestAcc comparer_(1-4)/5_TestAcc comparer_1-4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6(b) Word comparer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NN_ASGN2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Figures/Part B/Question 6/6(b)_Word_comparer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Figures/Part B/Question 6/6(b)_Word_comparer/6(b) Word comparer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="compare_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NN_ASGN2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Figures/Part B/Question 6/6(a) Word_comparer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Figures/Part B/Question 6/6(a) Word_comparer/compare_words.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="comparer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NN_ASGN2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Figures/Part A/Question2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Figures/Part A/Question2/comparer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="comparerword" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NN_ASGN2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Figures/Part B/Question 5/5_(4) Word comparer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Figures/Part B/Question 5/5_(4) Word comparer/comparerword.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.comparerword" />
+      <item itemvalue="Python.5_TestAcc comparer_1-4" />
+      <item itemvalue="Python.compare_words" />
+      <item itemvalue="Python.6(b) Word comparer" />
+      <item itemvalue="Python.comparer (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.comparer (1)" />
+        <item itemvalue="Python.6(b) Word comparer" />
+        <item itemvalue="Python.compare_words" />
+        <item itemvalue="Python.comparerword" />
+        <item itemvalue="Python.5_TestAcc comparer_1-4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eec334d0-1520-4cd0-af9d-a677539c691c" name="Default Changelist" comment="" />
+      <created>1540275278611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540275278611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19517103" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" weight="0.39660057" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50033534" side_tool="true" weight="0.39660057" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3293092" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13413817" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3045326" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3293092" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PartB_Qns6_Word.py" />
+    <entry file="file://$PROJECT_DIR$/PartB_Qns6_Word_LSTM.py" />
+    <entry file="file://$PROJECT_DIR$/PartB_Qns6_Word_Vanilla.py" />
+    <entry file="file://$PROJECT_DIR$/../Tutorial Codes/t9q1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tutorial Codes/t9q2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="156" column="15" selection-start-line="156" selection-start-column="15" selection-end-line="156" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tutorial Codes/t9q3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-473">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Example codes/eg9.1a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="63" column="24" lean-forward="true" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Example codes/eg9.1b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Example codes/eg9.2b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Example codes/eg8.1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PartB_Qns6_Word_2layers.py" />
+    <entry file="file://$PROJECT_DIR$/../Example codes/eg9.2a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="67" column="57" selection-start-line="67" selection-start-column="57" selection-end-line="67" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compare_6(a).py" />
+    <entry file="file://$PROJECT_DIR$/6(a) Comparer/Comparer6(a).py" />
+    <entry file="file://$PROJECT_DIR$/PartB_Qns6_Character_GradClipped.py" />
+    <entry file="file://$PROJECT_DIR$/b_q5_dropout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="274" column="23" lean-forward="true" selection-start-line="274" selection-start-column="23" selection-end-line="274" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figures/Part B/Question 6/6(a) Word_comparer/6(a)_WordComparer.py" />
+    <entry file="file://$PROJECT_DIR$/Figures/Part B/Question 6/6(a) Word_comparer/Comparer6(a).py" />
+    <entry file="file://$PROJECT_DIR$/6(a) Word_comparer/compare_words.py" />
+    <entry file="file://$PROJECT_DIR$/Figures/Part B/Question 6/6(a) Character_comparer/Comparer6(a).py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/matplotlib/axes/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="382" selection-start-line="382" selection-end-line="382" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/matplotlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="1866" selection-start-line="1866" selection-end-line="1866" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figures/Part B/Question 6/6(b) Character_comparer/6(b) Character comparer.py" />
+    <entry file="file://$PROJECT_DIR$/PartB_Qns6_Character_2layers.py" />
+    <entry file="file://$PROJECT_DIR$/../Example codes/eg8.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Example codes/eg8.3b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="72" column="8" selection-start-line="72" selection-end-line="72" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figures/Part B/Question 6/6(c)_Character_comparer/6(c)_Character comparer.py" />
+    <entry file="file://$PROJECT_DIR$/Figures/Part B/Question 6/6(c)_Word_comparer/6(c)_Word comparer.py" />
+    <entry file="file://$PROJECT_DIR$/../NN_ASGN1/Myat_Ye_P1_codes/PartB/PartB_Qns4_3Layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2988" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NN_ASGN1/Myat_Ye_P1_codes/PartB/PartB_Qns2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3564" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/matplotlib/artist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="880" selection-start-line="880" selection-end-line="880" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figures/Part B/Question 5/5_Runtime comparer_(1-4)/5_Runtime_Comparer(1-4).py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="1723" selection-start-line="1723" selection-end-line="1723" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figures/Part B/Question 5/5_(2) Word comparer/5_(2) Word Comparer.py" />
+    <entry file="file://$PROJECT_DIR$/Figures/Part B/Question 5/5_(3) Character comparer/comparer.py" />
+    <entry file="file://$PROJECT_DIR$/Figures/Part A/Question2/comparer.py" />
+    <entry file="file://$PROJECT_DIR$/Figures/Part B/Question 6/6(b)_Word_comparer/6(b) Word comparer.py" />
+    <entry file="file://$PROJECT_DIR$/PartB_Qns6_Word_GradClipped.py" />
+    <entry file="file://$PROJECT_DIR$/../NN_ASGN1/Myat_Ye_P1_codes/PartA/PartA_QNS1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NN_ASGN1/Myat_Ye_P1_codes/PartB/PartB_Qns3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="160" column="45" selection-start-line="154" selection-start-column="4" selection-end-line="160" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figures/Part B/Question 5/5_(1) Character comparer/5_(1)_CharacterCNN_comparer.py" />
+    <entry file="file://$PROJECT_DIR$/Figures/Part B/Question 5/5_(4) Word comparer/comparerword.py" />
+    <entry file="file://$PROJECT_DIR$/Figures/Part B/Question 6/6(a) Word_comparer/compare_words.py" />
+    <entry file="file://$PROJECT_DIR$/Figures/Part B/Question 5/5_TestAcc comparer_(1-4)/5_TestAcc comparer_1-4.py" />
+    <entry file="file://$PROJECT_DIR$/PartA_Qns1.py" />
+    <entry file="file://$PROJECT_DIR$/PartA_Qns2.py" />
+    <entry file="file://$PROJECT_DIR$/PartA_Qns3.py" />
+    <entry file="file://$PROJECT_DIR$/PartB_Qns1.py" />
+    <entry file="file://$PROJECT_DIR$/PartB_Qns2.py" />
+    <entry file="file://$PROJECT_DIR$/PartB_Qns3.py" />
+    <entry file="file://$PROJECT_DIR$/PartB_Qns4.py" />
+  </component>
+</project>

@@ -1,0 +1,33 @@
+iteration: 0
+Test accuracy: 0.101
+Training cost: 2.29495
+iteration: 100
+Test accuracy: 0.372
+Training cost: 1.76593
+iteration: 200
+Test accuracy: 0.4365
+Training cost: 1.57218
+iteration: 300
+Test accuracy: 0.461
+Training cost: 1.44261
+iteration: 400
+Test accuracy: 0.488
+Training cost: 1.34844
+iteration: 500
+Test accuracy: 0.5035
+Training cost: 1.24156
+iteration: 600
+Test accuracy: 0.5105
+Training cost: 1.13272
+iteration: 700
+Test accuracy: 0.512
+Training cost: 1.0671
+iteration: 800
+Test accuracy: 0.5235
+Training cost: 0.94607
+iteration: 900
+Test accuracy: 0.5165
+Training cost: 0.878422
+iteration: 999
+Test accuracy: 0.5055
+Training cost: 0.75525

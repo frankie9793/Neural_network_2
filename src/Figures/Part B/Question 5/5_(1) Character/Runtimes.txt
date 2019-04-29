@@ -1,0 +1,2 @@
+Runtime per epoch is 645.566
+Runtime per epoch is 618.496
